@@ -6,18 +6,18 @@ This folder contains my LLM projects on PyTorch using hugging face libraries
 
 ## Projects
 
-### Project3
-
-**Chatbot dataset | Qwen2.5-0.5B-Instruct | PEFT/LoRA**
-
----
-
 ### Project4
 
-**System Prompt Engineering | Mentor for python developers | Advanced project architecture | API**
+**Qwen2.5-0.5B-Instruct | API**
 
 ---
 
 ### Project5
 
-**Biology Teacher model | Qwen2.5-0.5B-Instruct with system prompt | Simple context window**
+**System Prompt Engineering | Biology Teacher model | Simple context window**
+
+---
+
+### Project6
+
+**LDJnr/Capybara dataset | Fine-tuned Qwen2.5-0.5B-Instruct | PEFT/LoRA | Inference and API**

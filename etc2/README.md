@@ -21,3 +21,9 @@ This folder contains my LLM projects on PyTorch using hugging face libraries
 ### Project6
 
 **LDJnr/Capybara dataset | Fine-tuned Qwen2.5-0.5B-Instruct | PEFT/LoRA | Inference and API**
+
+---
+
+### Project7
+
+**rag-mini-wikipedia dataset | Qdrant | Qwen2.5-0.5B-Instruct with RAG**
